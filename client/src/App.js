@@ -43,9 +43,9 @@ function App() {
       <div>
         <p className="text-3xl mt-6">
           Aditionally I have added the colors we need in the tailwind config
-          files I have named them as red, green, and purple for convinience.
-          Hence you would add the class name like 'text-purple' or 'bg-green' to
-          access the properties
+          files I have named them as custom-red, custom-green, and custom-purple
+          for convinience. Hence you would add the class name like
+          'text-custom-purple' or 'bg-custom-green' to access the properties
         </p>
         <p className="text-3xl mt-3">
           If you are still underconfidennt about this tailbird thing, watch this
