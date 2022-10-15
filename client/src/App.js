@@ -17,7 +17,10 @@ function App() {
       </p>
       <p className="text-3xl">
         3. Use Cloudinary for hosting the images and then use the links in the
-        website, rather than using local images,
+        website, rather than using local images,I have yet to make the account
+        with the official Gymkhana accoount hence for now use local images or
+        your own cloudinary account images to get the hang of the website
+        itself, it is relatively easy
       </p>
       <p className="mt-4 text-3xl">
         If you get stuck use this link{" "}
